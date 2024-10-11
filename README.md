@@ -13,7 +13,7 @@ In this repository, you will find the code for a scheduled audio transcription s
 
 ## Demo
 
-<video src="https://raw.githubusercontent.com/upstash/transcriber/refs/heads/master/demo.mp4" controls></video>
+<video src="./demo.mp4" controls></video>
 
 ## One-click Deploy
 
