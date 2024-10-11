@@ -11,6 +11,10 @@
 
 In this repository, you will find the code for a scheduled audio transcription system, built using Upstash QStash for task scheduling and Fireworks AI for transcription. You will also learn techniques for secure file uploads to Cloudflare R2, user authentication with Clerk, and data storage with Upstash Redis.
 
+## Demo
+
+![Demo](./demo.mp4)
+
 ## One-click Deploy
 
 You can deploy this template to Vercel with the button below:
