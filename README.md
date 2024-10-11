@@ -1,3 +1,5 @@
+# Scheduling Audio Transcriptions with QStash
+
 <p>
   <a href="#introduction"><strong>Introduction</strong></a> ·
   <a href="#one-click-deploy"><strong>One-click Deploy</strong></a> ·
@@ -7,7 +9,7 @@
 
 ## Introduction
 
-TODO
+In this repository, you will find the code for a scheduled audio transcription system, built using Upstash QStash for task scheduling and Fireworks AI for transcription. You will also learn techniques for secure file uploads to Cloudflare R2, user authentication with Clerk, and data storage with Upstash Redis.
 
 ## One-click Deploy
 
