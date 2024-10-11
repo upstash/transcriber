@@ -13,7 +13,7 @@ In this repository, you will find the code for a scheduled audio transcription s
 
 ## Demo
 
-![Demo](./demo.mp4)
+./demo.mp4
 
 ## One-click Deploy
 
